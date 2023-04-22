@@ -1,0 +1,253 @@
+{
+  "holdings": [
+    {
+      "fundName": "Kotak Flexi Cap Fund - Direct Plan - Growth",
+      "fundId": "910128928303",
+      "openingUnitBalance": 50,
+      "nav": 59.719,
+      "navDate": "18-Apr-2023",
+      "transactions": [
+        {
+          "date": "6-Jan-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 39.62
+        },
+        {
+          "date": "3-Feb-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 39.82
+        },
+        {
+          "date": "6-Mar-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 37.40
+        },
+        {
+          "date": "3-Apr-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 27.35
+        },
+        {
+          "date": "4-May-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 31.09
+        },
+        {
+          "date": "4-Jun-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 33.57
+        },
+        {
+          "date": "4-Jul-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 35.56
+        },
+        {
+          "date": "4-Aug-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 36.24
+        },
+        {
+          "date": "4-Sep-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 37.37
+        },
+        {
+          "date": "5-Oct-2020",
+          "description": "Sell",
+          "amount": 1700,
+          "price": 38.17
+        },
+        {
+          "date": "5-Nov-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 39.79
+        },
+        {
+          "date": "8-Dec-2020",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 44.14
+        },
+        {
+          "date": "6-Jan-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 46.31
+        },
+        {
+          "date": "5-Feb-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 48.71
+        },
+        {
+          "date": "4-Mar-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 50.46
+        },
+        {
+          "date": "5-Apr-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 48.66
+        },
+        {
+          "date": "6-May-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 49.21
+        },
+        {
+          "date": "4-Jun-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 51.90
+        },
+        {
+          "date": "2-Jul-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 52.57
+        },
+        {
+          "date": "4-Aug-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 55.12
+        },
+        {
+          "date": "6-Sep-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 57.73
+        },
+        {
+          "date": "5-Oct-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 58.32
+        },
+        {
+          "date": "8-Nov-2021",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 59.27
+        },
+        {
+          "date": "3-Dec-2021",
+          "description": "Sell",
+          "amount": 3000,
+          "price": 56.08
+        },
+        {
+          "date": "5-Jan-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 58.67
+        },
+        {
+          "date": "4-Feb-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 58.05
+        },
+        {
+          "date": "3-Mar-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 53.44
+        },
+        {
+          "date": "5-Apr-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 58.18
+        },
+        {
+          "date": "5-May-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 54.70
+        },
+        {
+          "date": "6-Jun-2022",
+          "description": "Sell",
+          "amount": 1200,
+          "price": 53.85
+        },
+        {
+          "date": "4-Jul-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 51.91
+        },
+        {
+          "date": "5-Aug-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 57.54
+        },
+        {
+          "date": "5-Sep-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 59.01
+        },
+        {
+          "date": "4-Oct-2022",
+          "description": "Sell",
+          "amount": 2000,
+          "price": 57.81
+        },
+        {
+          "date": "4-Nov-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 60.56
+        },
+        {
+          "date": "5-Dec-2022",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 62.03
+        },
+        {
+          "date": "4-Jan-2023",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 60.49
+        },
+        {
+          "date": "3-Feb-2023",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 59.68
+        },
+        {
+          "date": "6-Mar-2023",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 59.21
+        },
+        {
+          "date": "6-Apr-2023",
+          "description": "Systematic Investment(1)",
+          "amount": 999.95,
+          "price": 59.00
+        }
+      ]
+    }
+  ]
+}
