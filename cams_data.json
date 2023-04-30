@@ -1,11 +1,11 @@
 {
   "holdings": [
     {
-      "fundName": "Kotak Flexi Cap Fund - Direct Plan - Growth",
+      "fundName": "Kotak Flexicap Fund - Growth - Direct",
       "fundId": "910128928303",
-      "openingUnitBalance": 50,
-      "nav": 59.719,
-      "navDate": "18-Apr-2023",
+      "openingUnitBalance": 0,
+      "nav": 60.585,
+      "navDate": "30-Apr-2023",
       "transactions": [
         {
           "date": "6-Jan-2020",
